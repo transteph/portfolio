@@ -229,28 +229,6 @@
           }
         },
         {
-          "id": "portrait",
-          "name": "portrait",
-          "type": "Link",
-          "localized": false,
-          "required": false,
-          "validations": [],
-          "disabled": false,
-          "omitted": false,
-          "linkType": "Asset"
-        },
-        {
-          "id": "portrait",
-          "name": "portrait",
-          "type": "Link",
-          "localized": false,
-          "required": false,
-          "validations": [],
-          "disabled": false,
-          "omitted": false,
-          "linkType": "Asset"
-        },
-        {
           "id": "profile",
           "name": "Profile",
           "type": "Link",
@@ -326,14 +304,14 @@
           "sys": {
             "type": "Link",
             "linkType": "User",
-            "id": "39qjvWfQqhAm1hb0OdzRB7"
+            "id": "2XGcyQ3vKgm55htxMAIqsM"
           }
         },
         "updatedBy": {
           "sys": {
             "type": "Link",
             "linkType": "User",
-            "id": "39qjvWfQqhAm1hb0OdzRB7"
+            "id": "2XGcyQ3vKgm55htxMAIqsM"
           }
         },
         "publishedCounter": 2,
@@ -342,7 +320,7 @@
           "sys": {
             "type": "Link",
             "linkType": "User",
-            "id": "39qjvWfQqhAm1hb0OdzRB7"
+            "id": "2XGcyQ3vKgm55htxMAIqsM"
           }
         },
         "publishedVersion": 3,
@@ -526,10 +504,6 @@
         },
         {
           "fieldId": "profile",
-          "widgetId": "assetLinkEditor"
-        },
-        {
-          "fieldId": "portrait",
           "widgetId": "assetLinkEditor"
         },
         {
@@ -1529,14 +1503,14 @@
       },
       "fields": {
         "title": {
-          "en-US": "Logo"
+          "en-US": "Mate Logo"
         },
         "description": {
-          "en-US": "Logo"
+          "en-US": "Mate Logo"
         },
         "file": {
           "en-US": {
-            "url": "https://images.ctfassets.net/d5gvew6c32kc/7kuQtvyqDwOmlabLZXsGhI/a32261966f97f980d6e73301a6e75984/logo-large.png",
+            "url": "//images.ctfassets.net/ntiequ7mc6q6/6nf3rNaaVaUqYcoAcciSeC/4433ecac61b8aa767edd9e11739bb30a/Mate_Logo.png",
             "details": {
               "size": 52527,
               "image": {

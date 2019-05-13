@@ -21,7 +21,7 @@ const plugins = [
   {
     resolve: 'gatsby-plugin-google-fonts',
     options: {
-      fonts: ['Poppins', 'Inconsolata','Source Sans Pro'],
+      fonts: ['Inconsolata', 'Open Sans'],
     },
   },
   {
@@ -61,6 +61,3 @@ module.exports = client.getEntries().then(entries => {
     plugins,
   };
 });
-module.exports = {
-  pathPrefix: "/gatsby-portfolio",
-}

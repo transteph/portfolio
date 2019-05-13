@@ -10,12 +10,12 @@
     "start": "npm run develop",
     "lint": "eslint ./src",
     "setup": "node ./bin/setup.js",
-    "predeploy": "npm run build",
+    "predeploy": "yarn start",
     "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/transteph/gatsby-portfolio"
+    "url": "git+https://github.com/transteph/portfolio"
   },
   "keywords": [
     "gatsby",
@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "clean-dir": "^1.0.3",
-    "contentful": "^7.0.3",
+    "contentful": "^7.6.0",
     "dotenv": "^7.0.0",
     "envfile": "^3.0.0",
     "gatsby": "^2.3.27",
