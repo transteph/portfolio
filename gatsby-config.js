@@ -34,7 +34,9 @@ const plugins = [
   'gatsby-transformer-remark',
   'gatsby-plugin-offline',
 ];
-
+module.exports = {
+  pathPrefix: '/reponame',
+};
 module.exports = client.getEntries().then(entries => {
   const { mediumUser } = entries.items.find(getAboutEntry).fields;
 
