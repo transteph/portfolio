@@ -1,4 +1,4 @@
-# Gatsby Starter: Mate
+# Portfolio App
 
 Portfolio page using Gatsby Starter, [Mate](https://github.com/EmaSuriano/gatsby-starter-mate) (thank you, [Ema Suriano!](emasuriano.com)).
 
