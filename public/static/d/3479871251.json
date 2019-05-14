@@ -1,1 +1,65 @@
-{"data":{"site":{"siteMetadata":{"isMediumUserDefined":true}},"allMediumPost":{"edges":[{"node":{"id":"32f97081-d30d-5862-bc09-1ec297572037","uniqueSlug":"silicon-valley-and-the-deathly-hallows-c936b786b4c8","title":"Silicon Valley and the Deathly Hallows","createdAt":"Dec 2018","virtuals":{"subtitle":"To get some insight on the history and ironies between digitalization and the US government, one can view the state as the Hogwarts School…","readingTime":7.867924528301887,"previewImage":{"imageId":"1*K8EivqVsktZE1XFI-suY6A.jpeg"}},"author":{"username":"transteph"}}},{"node":{"id":"8cdb5e9c-9d9d-5abe-9f97-79a1367bc658","uniqueSlug":"review-fighting-a-thousand-cuts-1039cf8b7068","title":"Review: Fighting a Thousand Cuts","createdAt":"Dec 2018","virtuals":{"subtitle":"How Ellen Pao stood up against workplace discrimination in vecture capitalism.","readingTime":6.513207547169811,"previewImage":{"imageId":"1*xjs7CQEkNeWobgIK834-xg.png"}},"author":{"username":"transteph"}}},{"node":{"id":"f86e565a-a630-5c43-81de-c2a662e04987","uniqueSlug":"what-silicon-valley-did-to-homer-simpson-952e8c04eb65","title":"What Silicon Valley Did to Homer Simpson","createdAt":"Oct 2018","virtuals":{"subtitle":"This article was written as part of an assignment for the Fall 2018 History of Technology Revolution course at Sciences Po. This course is…","readingTime":5.460377358490566,"previewImage":{"imageId":"1*2kPd8zzlthfn3sHFu__FKA.png"}},"author":{"username":"transteph"}}},{"node":{"id":"1c99ef50-9cb2-59c2-bb9c-8b55edc9bce9","uniqueSlug":"the-digital-divide-is-only-getting-worse-82948cc11a","title":"The Digital Divide is Only Getting Worse","createdAt":"Sep 2018","virtuals":{"subtitle":"And policy can’t keep up in time.","readingTime":1.181132075471698,"previewImage":{"imageId":"1*7TP0abnDURn5SuYGDq-s0w.jpeg"}},"author":{"username":"transteph"}}}]}}}
+{
+  "data": {
+    "site": { "siteMetadata": { "isMediumUserDefined": true } },
+    "allMediumPost": {
+      "edges": [
+        {
+          "node": {
+            "id": "32f97081-d30d-5862-bc09-1ec297572037",
+            "uniqueSlug": "silicon-valley-and-the-deathly-hallows-c936b786b4c8",
+            "title": "Silicon Valley and the Deathly Hallows",
+            "createdAt": "Dec 2018",
+            "virtuals": {
+              "subtitle": "The tech industry wouldn’t be what it is today without the public sector. And yet, the legitimacy of the state has become threatened by…",
+              "readingTime": 7.818867924528302,
+              "previewImage": { "imageId": "1*K8EivqVsktZE1XFI-suY6A.jpeg" }
+            },
+            "author": { "username": "transteph" }
+          }
+        },
+        {
+          "node": {
+            "id": "8cdb5e9c-9d9d-5abe-9f97-79a1367bc658",
+            "uniqueSlug": "review-fighting-a-thousand-cuts-1039cf8b7068",
+            "title": "Navigating with a Thousand Cuts",
+            "createdAt": "Dec 2018",
+            "virtuals": {
+              "subtitle": "How Ellen Pao stood up against workplace discrimination in venture capitalism — and the costs that came from it.",
+              "readingTime": 6.471698113207547,
+              "previewImage": { "imageId": "1*xjs7CQEkNeWobgIK834-xg.png" }
+            },
+            "author": { "username": "transteph" }
+          }
+        },
+        {
+          "node": {
+            "id": "f86e565a-a630-5c43-81de-c2a662e04987",
+            "uniqueSlug": "what-silicon-valley-did-to-homer-simpson-952e8c04eb65",
+            "title": "What Silicon Valley Did to Homer Simpson",
+            "createdAt": "Oct 2018",
+            "virtuals": {
+              "subtitle": "This article was written as part of an assignment for the Fall 2018 History of Technology Revolution course at Sciences Po. This course is…",
+              "readingTime": 5.430188679245283,
+              "previewImage": { "imageId": "1*2kPd8zzlthfn3sHFu__FKA.png" }
+            },
+            "author": { "username": "transteph" }
+          }
+        },
+        {
+          "node": {
+            "id": "1c99ef50-9cb2-59c2-bb9c-8b55edc9bce9",
+            "uniqueSlug": "the-digital-divide-is-only-getting-worse-82948cc11a",
+            "title": "The Digital Divide is Only Getting Worse",
+            "createdAt": "Sep 2018",
+            "virtuals": {
+              "subtitle": "And policy can’t keep up in time.",
+              "readingTime": 1.181132075471698,
+              "previewImage": { "imageId": "1*7TP0abnDURn5SuYGDq-s0w.jpeg" }
+            },
+            "author": { "username": "transteph" }
+          }
+        }
+      ]
+    }
+  }
+}

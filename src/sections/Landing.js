@@ -7,11 +7,7 @@ import Section from '../components/Section';
 import SocialLink from '../components/SocialLink';
 import Triangle from '../components/Triangle';
 
-const Background = () => (
-  <div>
-   
-  </div>
-);
+const Background = () => <div />;
 
 const LandingPage = () => (
   <Section.Container id="home" Background={Background}>
@@ -52,7 +48,7 @@ const LandingPage = () => (
               mb={[3, 5]}
               textAlign="center"
             >
-              <TextLoop>
+              <TextLoop interval={2000}>
                 {roles.map(text => (
                   <Text width={[300, 500]} key={text}>
                     {text}
@@ -68,7 +64,6 @@ const LandingPage = () => (
                 </Box>
               ))}
             </Flex>
-           
           </Fragment>
         );
       }}
