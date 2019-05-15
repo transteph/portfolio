@@ -3,6 +3,10 @@ import ReactHelmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
 import { withTheme } from 'styled-components';
 import PropTypes from 'prop-types';
+import ReactGA from 'react-ga';
+
+ReactGA.initialize('UA-76008029-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 const Helmet = ({ theme = {} }) => (
   <StaticQuery
